@@ -13,7 +13,7 @@ const MidCTA = () => (
           Transforme visitas em oportunidades reais de negócio.
         </p>
         <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 shadow-[0_4px_14px_0_hsl(221_83%_53%/0.3)] hover:shadow-[0_6px_20px_0_hsl(221_83%_53%/0.4)] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] text-base px-8 h-12">
-          Solicitar Orçamento
+          <a href="https://wa.me/5585981613890?text=Ol%C3%A1%2C%20quero%20solicitar%20um%20or%C3%A7amento.">Solicitar Orçamento</a>
           <ArrowRight className="ml-2 h-4 w-4" />
         </Button>
       </SectionReveal>
